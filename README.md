@@ -6,3 +6,5 @@ This repository contains several code examples to accompany a single-lecture int
 * `poisson-deforming.py`
 
 This corresponds to the order in which they are discussed in the lecture, presented at a virtual software workshop on 4 February 2022, as part of a NASA-funded University Leadership Initiative (ULI) on eVTOL optimization.  The main website for the ULI is [here](https://sites.google.com/eng.ucsd.edu/uli/).
+
+Examples are all based on FEniCS version 2019.2.0.
