@@ -16,7 +16,7 @@ bc = DirichletBC(V,Constant(0),"on_boundary")
 # with the Poisson problem, in terms of a
 # `Function` object `u`.
 u = Function(V)
-E = (kappa*dot(grad(u),grad(u)) - f*u)*dx
+E = (0.5*kappa*dot(grad(u),grad(u)) - f*u)*dx
 
 # The residual of this problem is its
 # directional derivative w.r.t. `u`, in the
