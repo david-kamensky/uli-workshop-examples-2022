@@ -5,6 +5,6 @@ This repository contains several code examples to accompany a single-lecture int
 * `poisson-polar.py`
 * `poisson-deforming.py`
 
-This corresponds to the order in which they are discussed in the lecture, presented at a virtual software workshop on 4 February 2022, as part of a NASA-funded University Leadership Initiative (ULI) on eVTOL optimization.  The main website for the ULI is [here](https://sites.google.com/eng.ucsd.edu/uli/).
+This corresponds to the order in which they are discussed in the lecture, presented at a virtual software workshop on 4 February 2022, as part of a NASA-funded University Leadership Initiative (ULI) on eVTOL optimization.  The main website for the ULI is [here](https://sites.google.com/eng.ucsd.edu/uli/), and a recording of the live tutorial is available [here](https://www.youtube.com/watch?v=wou9jlplraw).
 
 Examples are all based on FEniCS version 2019.2.0.
